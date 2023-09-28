@@ -3,6 +3,12 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [5.1.1-rc.0](https://github.com/ionic-team/capacitor-plugins/compare/@capacitor/push-notifications@5.0.6...@capacitor/push-notifications@5.1.1-rc.0) (2023-09-28)
+
+### Features
+
+- use Firebase SDK for creating foreground notifications ([#1657](https://github.com/ionic-team/capacitor-plugins/issues/1657)) ([530029c](https://github.com/ionic-team/capacitor-plugins/commit/530029ce5125999dde6e8eed216cd7d0f4bee513))
+
 # [5.1.0](https://github.com/ionic-team/capacitor-plugins/compare/@capacitor/push-notifications@5.0.6...@capacitor/push-notifications@5.1.0) (2023-09-14)
 
 ### Features

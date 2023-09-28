@@ -3,6 +3,13 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [5.1.5-rc.0](https://github.com/ionic-team/capacitor-plugins/compare/@capacitor/filesystem@5.1.2...@capacitor/filesystem@5.1.5-rc.0) (2023-09-28)
+
+### Bug Fixes
+
+- **filesystem:** accessing security scoped resources on iOS ([#1660](https://github.com/ionic-team/capacitor-plugins/issues/1660)) ([ee6d93b](https://github.com/ionic-team/capacitor-plugins/commit/ee6d93b1a6efb299cb041b21dbccef225af667c4))
+- **filesystem:** catch http errors on downloadFile ([#1742](https://github.com/ionic-team/capacitor-plugins/issues/1742)) ([5ed01d3](https://github.com/ionic-team/capacitor-plugins/commit/5ed01d303686fdab727b0d40a1cf903ba82c0f43))
+
 ## [5.1.4](https://github.com/ionic-team/capacitor-plugins/compare/@capacitor/filesystem@5.1.3...@capacitor/filesystem@5.1.4) (2023-09-14)
 
 **Note:** Version bump only for package @capacitor/filesystem

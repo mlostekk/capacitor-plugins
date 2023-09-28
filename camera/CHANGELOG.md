@@ -3,6 +3,10 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [5.0.8-rc.0](https://github.com/ionic-team/capacitor-plugins/compare/@capacitor/camera@5.0.7...@capacitor/camera@5.0.8-rc.0) (2023-09-28)
+
+**Note:** Version bump only for package @capacitor/camera
+
 ## [5.0.7](https://github.com/ionic-team/capacitor-plugins/compare/@capacitor/camera@5.0.6...@capacitor/camera@5.0.7) (2023-08-09)
 
 ### Bug Fixes
